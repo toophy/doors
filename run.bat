@@ -1,0 +1,2 @@
+cd ./bin/
+doors.exe

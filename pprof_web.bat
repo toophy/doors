@@ -1,0 +1,1 @@
+go tool pprof ./bin/doors.exe ./log/doors_prof.log
